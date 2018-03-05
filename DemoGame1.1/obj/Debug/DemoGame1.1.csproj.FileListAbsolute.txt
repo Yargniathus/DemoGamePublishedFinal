@@ -1,0 +1,8 @@
+C:\Users\Student\Source\Repos\DemoGame1.1\DemoGame1.1\bin\Debug\Tribal Ritual.wav
+C:\Users\Student\Source\Repos\DemoGame1.1\DemoGame1.1\bin\Debug\DemoGame1.1.exe.config
+C:\Users\Student\Source\Repos\DemoGame1.1\DemoGame1.1\bin\Debug\DemoGame1.1.exe
+C:\Users\Student\Source\Repos\DemoGame1.1\DemoGame1.1\bin\Debug\DemoGame1.1.pdb
+C:\Users\Student\Source\Repos\DemoGame1.1\DemoGame1.1\obj\Debug\DemoGame1.1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Source\Repos\DemoGame1.1\DemoGame1.1\obj\Debug\DemoGame1.1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\DemoGame1.1\DemoGame1.1\obj\Debug\DemoGame1.1.exe
+C:\Users\Student\Source\Repos\DemoGame1.1\DemoGame1.1\obj\Debug\DemoGame1.1.pdb
