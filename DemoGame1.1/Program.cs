@@ -380,6 +380,7 @@ namespace DemoGamev1._1
             }
             End:;
             Console.WriteLine("\nCredits \n \nIdea             Jani Saari \n                 Tuomas Jukarainen\n \nLore             Tuomas Jukarainen \n\nProgramming      Cibrán Rey De Dios\n                 Jani Saari \n                 Justus Juutilainen \n                 Tuomas Jukarainen  \n \nMental Support   Justus Juutilainen\n");
+            Console.ReadLine();
 
 
 
